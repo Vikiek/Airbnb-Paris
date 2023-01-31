@@ -1,12 +1,10 @@
-# Python
-Projects in Python
-# Paris Airbnb - visualisation data project
+
+# Paris Airbnb - visualisation data project in Python 
 
 ## Author: Wiktoria Ekwińska
 
 
-
-The open-access dataset on which the analysis was conducted comes from Airbnb platform and it was downloaded via this website: http://insideairbnb.com/get-the-data.html). 
+The open-access dataset on which the analysis was conducted comes from Airbnb platform and it was downloaded via this website: http://insideairbnb.com/get-the-data.html. 
 It contains the data, collected from the above mentioned platform, relating to residential homes available for short-term rental from private persons in Paris.
 
 
@@ -23,27 +21,6 @@ From the analysis we want to learn the following:
 - what is the layout of the most popular offers on the map of Paris, are they located near tourist attractions
 - where are located the most booked offers (= with the lowest availability)
 
+The project contains some interactive visualisations that were made using Python package - folium.
 
-### About Paris Airbnb data
-
-Variables:
-- id - unique Airbnb identifier
-- name - name
-- host_id - host's identifier
-- host_name - host's name 
-- neighbourhood_group - the neighbourhood group as geocoded using the latitude and longitude against neighborhoods as defined by open or public digital shapefiles.
-- neighbourhood -  the neighbourhood as geocoded using the latitude and longitude against neighborhoods as defined by open or public digital shapefiles
-- latitude 
-- longitude 
-- room_type - the type of rental property
-- price - daily price in local currency (here euro)
-- minimum_nights - minimum number of night stay for the listing  
-- number_of_reviews -  the number of reviews the listing has
-- last_review - the date of the last/newest review
-- reviews_per_month - the average number of reviews of the listing
-- calculated_host_listing_count - the number of listings the host has in the current scrape, in the city/region geography.
-- availability_365 - the availability of the listing x days in the future as determined by the calendar
-- number_of_reviews_ltm - The number of reviews the listing has (in the last 12 months)
-- licence
-
-[Source](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=1938308660)
+### 
