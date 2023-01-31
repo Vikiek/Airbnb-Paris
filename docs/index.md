@@ -1,3 +1,3 @@
 ## Entrance page
 
-https://Vikiek.github.io/Airbnb-Paris-Vikiek/Airbnb_project.html
+https://Vikiek.github.io/Airbnb-Paris/Airbnb_project.html
