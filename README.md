@@ -1,6 +1,7 @@
 
 # Paris Airbnb - visualisation data project in Python 
 
+
 ## Author: Wiktoria Ekwińska
 
 
@@ -23,6 +24,6 @@ From the analysis we want to learn the following:
 
 The project contains some interactive visualisations that were made using Python package - folium.
 
-The project is available [here](https://Vikiek.github.io/Airbnb-Paris/Airbnb_project.html).
+The whole project (with code) is available [here](https://Vikiek.github.io/Airbnb-Paris/Airbnb_project.html).
 
 ### 
