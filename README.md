@@ -27,7 +27,7 @@ From the analysis we want to learn the following:
 The project contains some interactive visualisations that were made using Python package - folium.
 
 
-##Conclusions
+## Conclusions
 
 - In the dataset there aren't any strong correlations.
 - The biggest number of offers is located in Buttes-Montmartre where the average price per night is almost 80 euro.
