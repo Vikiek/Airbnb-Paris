@@ -2,10 +2,10 @@
 # Paris Airbnb - visualisation data project in Python 
 
 
-## Author: Wiktoria Ekwińska
 
 ## Project: [Paris Airbnb](https://Vikiek.github.io/Airbnb-Paris/Airbnb_project.html)
 
+### Author: Wiktoria Ekwińska
 
 The open-access dataset on which the analysis was conducted comes from Airbnb platform and it was downloaded via this website: http://insideairbnb.com/get-the-data.html. 
 It contains the data, collected from the above mentioned platform, relating to residential homes available for short-term rental from private persons in Paris.
