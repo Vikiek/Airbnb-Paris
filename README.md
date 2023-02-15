@@ -38,4 +38,5 @@ The project contains some interactive visualisations that were made using Python
 - The highest density of the most booked offers is observed in the north of Paris, with the biggest number of rentals located in the outskirts. The reason for that is the price accessibility of the offers located there.
 - The closer to the city centre the more offers with higher prices per night. The number of reviews hardly depends on localisation, the rentals with a high number of reviews can be found in the outskirts as well as in the city centre.
 
+
 ### 
